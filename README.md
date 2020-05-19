@@ -13,3 +13,8 @@ This project aim to let you practicing Git & GitHub, incremental development str
 
 - HTML changes : add introduction HTML, aside HTML.
 - CSS changes : add style to section, paragraph and aside.
+
+> these changes were made on ```master``` before merging ```references```
+
+- HTML changes : add main text HTML.
+- CSS changes : add style to main text.
