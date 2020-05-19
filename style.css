@@ -36,3 +36,21 @@ h1 {
    border:3px solid #021a40;
    background-color:#ff0;
 }
+
+p {
+    
+   flex: 0 0 80%;
+   font-size: large;
+   line-height: 2rem;
+}
+section{
+    display:flex
+}
+
+#aside  {
+    width: 200px;
+    flex: 1;
+    background-color:#F2720C;
+    height: 700px;
+
+}
