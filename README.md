@@ -7,4 +7,9 @@ This project aim to let you practicing Git & GitHub, incremental development str
 > these changes were made on ```master``` before merging ```introduction```
 
 - HTML changes : add css file, add header and footer, add navbar
-- CSS changes: add style to header and footer
+- CSS changes: add style to header and footer.
+
+> these changes were made on ```master``` before merging ```main-text```
+
+- HTML changes : add introduction HTML, aside HTML.
+- CSS changes : add style to section, paragraph and aside.
