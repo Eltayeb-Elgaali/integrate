@@ -18,3 +18,8 @@ This project aim to let you practicing Git & GitHub, incremental development str
 
 - HTML changes : add main text HTML.
 - CSS changes : add style to main text.
+
+> these changes were made on ```master``` before merging ```final-readme-text```
+
+- HTML changes : add references HTML.
+- CSS changes : add style to references .
