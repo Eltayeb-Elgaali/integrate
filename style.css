@@ -61,4 +61,10 @@ h1 {
     clear: both;
   }
 
+a {
+    text-decoration: none;
     
+}
+li {
+    padding: 20px;
+}
